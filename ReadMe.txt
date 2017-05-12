@@ -14,10 +14,13 @@ Then, the command is
 
 java -jar Gscaler.jar myGraph.txt myScaling/ 200 100
 
+The documented code can be found here
+https://github.com/jayCool/GscalerSource/
+
 
 Users can use GscalerCloud-the online service of Gscaler at
 
-http://scaler.d2.comp.nus.edu.sg/gscaler/index.jsp
+http://scaler.d2.comp.nus.edu.sg/GscalerCloud/
 
 
 
